@@ -1,2 +1,2 @@
 # nlw-esports
- Projeto inspirado no evento NLW eSports, realizado pela Rocketseat.
+ Projeto inspirado no evento NLW eSports, realizado pela Rocketseat. (In progress)
